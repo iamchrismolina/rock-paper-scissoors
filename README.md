@@ -2,6 +2,8 @@
 
 This is a rock-paper-scissors game which is played on the console. Here you will play with a computer for 5 rounds straight. The winner will be the one with the highest score or it could be a tie if both player gets no score or the same score.
 
+![Markdown Logo](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2016_11/1016196/rock-paper-scissors-today-tease-160317.jpg)
+
 ## How It's Made:
 
 **Tech used**: JS
