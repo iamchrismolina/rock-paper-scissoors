@@ -27,5 +27,6 @@ As for the the players' input, it's much better to have a dedicated function, so
 
 ## Example Projects:
 
-https://github.com/iamchrismolina/odin-recipes
-https://github.com/iamchrismolina/landing-page
+**Odin-Recipes**: https://github.com/iamchrismolina/odin-recipes
+
+**Landing-Page**: https://github.com/iamchrismolina/landing-page
